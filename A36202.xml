@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Doctors last vvill and testament being a most pleasant dialogue between Doctor Cousin and a fellow of his owne colledge, desiring him to resigne his mastership.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36202</idno>
+            <idno type="STC">Wing D1768A</idno>
+            <idno type="STC">ESTC R37751</idno>
+            <idno type="EEBO-CITATION">17009530</idno>
+            <idno type="OCLC">ocm 17009530</idno>
+            <idno type="VID">105768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1614:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Doctors last vvill and testament being a most pleasant dialogue between Doctor Cousin and a fellow of his owne colledge, desiring him to resigne his mastership.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Woodcut illustrations on t.p.</note>
+                  <note>"A satire on Dr. John Cosin, Tater bishop of Durham, for his insistence on liturgical ritual at Cambridge University"--NUC pre-1956 imprints.</note>
+                  <note>Imperfect: pages torn, with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cosin, John, 1594-1672.</term>
+               <term>Church of England --  Liturgy --  Controversial literature.</term>
+               <term>Church of England --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105768:1"/>
+            <pb facs="tcp:105768:1" rendition="simple:additions"/>
+            <p>THE DOCTORS LAST VVIL AND TESTAMENT, BEING A MOST PLEASANT DIALOGUE BETWEEN DOCTOR COUSIN and a Fellow of his owne Col<g ref="char:EOLhyphen"/>ledge, deſiring him to reſigne his Maſterſhip.</p>
+            <figure/>
+            <figure/>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:105768:2" rendition="simple:additions"/>
+            <head>THE DOCTORS LAST WILL AND TESTAMENT.</head>
+            <sp>
+               <speaker>Fell.</speaker>
+               <p>REverend Doctor, both the preſident, and all the reſt of the Fellowes, Schollers, and Students in our Colledge, humbly remembring and preſenting their ſervice unto you even unto the fi<g ref="char:EOLhyphen"/>nall event, doe beſeech you to reſigne the Maſterſhip that the Colledge may neither ſuffer detriments, nor the Collegiates diſgrace by your immature death.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>Sir, I congratulate your preſence together with your meſsage, I will fully anſwer your expecta<g ref="char:EOLhyphen"/>tion therein, but you ſhall firſt permit me to tranſ<g ref="char:EOLhyphen"/>curre ſome circumſtances, which I would gladly have reſolved unto me.</p>
+            </sp>
+            <sp>
+               <speaker>Fell.</speaker>
+               <p>Aske and require what you pleaſe, 'tis your ſervants duty to ſubmit, and he will reſolve you to the utmoſt of his intelligence.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>What? Does the Chappell retaine its for<g ref="char:EOLhyphen"/>mer Ornaments.</p>
+            </sp>
+            <sp>
+               <speaker>Fel,</speaker>
+               <p>But few of them as yet are erected.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>It argues then that ſome are neglected; and I pray thee what are thoſe few. Does not the Croſſe ſtand ſtill: I hope they have not rejected the Crucifix, have they.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:105768:2"/>
+               <speaker>Fel.</speaker>
+               <p>Sir, that remaines, and have long expected your comming, although fruſtrated thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>My deſires have beene ardent, and my affection fervent to have come divers times to viſit my Daugh<g ref="char:EOLhyphen"/>ter, but theſe ſhackles (a poxe on the inventor of them) have drawne me backe; but if it remaines, doe they not worſhip it ſtill, as in time paſt, when I was Patron o<g ref="char:EOLhyphen"/>ver it?</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Some red-hot Zelots like your ſelfe doe obſerve the ceremoniall rights, and eccleſiaſticall innovations, and will not omit the leaſt Canonicall duty, but do ſtill bow as popiſhly to it, as ever you did your ſelf preſent.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>I doe extoll them with a meritorious collau<g ref="char:EOLhyphen"/>dation.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>But ſome others whoſe devotion is more pious and religious, do deſpiſe it with a deteſtable contempt.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>Why doe you not puniſh them by reſtriction, and caſtigation, O why doe ye not compell them by coerrion.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>'Tis vanity for any man to command Armini<g ref="char:EOLhyphen"/>aniſe to be obſerv'd by them whoſe conſciences cannot digeſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>You ſay true indeed, for had not I comman<g ref="char:EOLhyphen"/>ded things contrary to mens conſciences, I had never beene ſenſible of this miſery, to which now I am ſub<g ref="char:EOLhyphen"/>jected. But what of the other ceremonies, doe the Pi<g ref="char:EOLhyphen"/>ctures and graven Images ſtill remaine.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Thoſe likewiſe as yet are not aboliſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>That does ſomewhat relate the ambiguity of my thoughts; but doe they worſhip them too.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Some have not the conſcience to looke upon them, and I have heard ſome ſay that they had rather ſee you hangd there then the pictures in your roome.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:105768:3"/>
+               <speaker>Cou.</speaker>
+               <p>What audacious impudence is this? why doe you not compell them by more reſtriction; but does the Altar remaine ſtill, and have ye not yet forgot to burne incenſe thereto, as in my time, wherein you were very diligent?</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Pardon the inſolent arrogancie of my too re<g ref="char:EOLhyphen"/>miſse tounge; I have heard ſome wiſh that you were ſacrificed herein.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Oh! what audacity is this.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Suffer not paſſion to conquer thus thy captive thoughts, for 'tis a cuſtome in the world, to promul<g ref="char:EOLhyphen"/>gate whatſoever their conceit nouriſheth.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Well, let that paſse, Does the Triple Crowne which I built in S. <hi>Maries,</hi> retain its ſplendent ſtructure.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>But I beſeech you permit me to evacuate what my greedy mind deſireth to diſgorge unto you; I have heard many pray, that your head may be erected there to make up an even number.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>This tranſcends humane patience, for although I have beene patient in many things, yet I remember that Apophthegmatical ſentence, <hi>Laeſa patientia fit furor.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>By the ſame patience, to which you have com<g ref="char:EOLhyphen"/>pelled many to ſubject themſelues in your Pontificiall and Romiſh innouations, by the ſame patience I be<g ref="char:EOLhyphen"/>ſeech you to eleuate your depreſsed thoughts.</p>
+            </sp>
+            <sp>
+               <speaker>Cou,</speaker>
+               <p>Since I ſee there is no remedy but patience, J muſt embrace that; but how fares the Fellowes of St. <hi>Peters</hi> Colledge, what doe they judge of me.</p>
+            </sp>
+            <sp>
+               <speaker>Fel,</speaker>
+               <p>Sir, they think that your Maſterſhips Canons will requoile, and their opinion is, that they ought to be new caſt, for their Founders miſcarry.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>There are many will performe that office for
+<pb n="4" facs="tcp:105768:3"/>me; therefore I ſhall not need to ſollicite my ſelfe in that point; But does the Colledge flouriſh in Schollers, are many Freſh-men admitted ſince my departure.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>We have not one Scholar admitted this twelve<g ref="char:EOLhyphen"/>month, and God knowes whether, wee ſhall have ever a<g ref="char:EOLhyphen"/>gaine, as long as you beare the title of their Maſter, there<g ref="char:EOLhyphen"/>fore the Colledge did deſire me in all their behalfes to exhibite their ſupplication, beſeeching you to reſigne your Maſtership to ſome deſervable man.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>I will grant your petition, with retribution of many thankes, that they are ſo carefull and indulgent of the Colledges proſperity.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>You have ſpoken with a magnanimous ſpirit; ex<g ref="char:EOLhyphen"/>cuſe my inſolence herein, Pray have you no hopes of re<g ref="char:EOLhyphen"/>covering your impriſonment and reſtitution of your former fortunes.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Troth but very little, all men are ſo maliciouſly incenſed againſt me, that I deſpaire of that.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>But do you think they wil deprive you of your life.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>That is ambiguous, but if I had had but thus much intelligence heretofore, I could have followed my good friend <hi>Finch</hi> over the Ocean.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>I commend him for't, for if he had ſtayed any lon<g ref="char:EOLhyphen"/>ger, he would have been put in a Cage; but thou mighteſt have eſcapen with <hi>Windebancke.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>There was ſuch a tempeſtuous ſtorm, that I durſt not venter.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>I feare it will ariſe more tempeſtuous yet.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>But I will not detaine thy negotiating mind with any longer ambages, let this ſuffice thee, and ſolace the Colledge, with an expreſse inveſtigation of comfort that I doe with as great alacrity and cheerefulneſse of minde reſigne my place to him who you shal moſt iudici<g ref="char:EOLhyphen"/>ouſly elect as ever I aſſumed that Title firſt.</p>
+               <pb n="5" facs="tcp:105768:4"/>
+               <p> But one thing I ſhall deſire thee to put in execution for me with all expedition, I will precurre the Breviary of my laſt will and Teſtament, which I will make.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Sir I highly commend the aſpiring ſublimit of your magnanimous mind, &amp; for your benefactions which you ſhall bequeath to the Univerſitie, the reſounding Ec<g ref="char:EOLhyphen"/>cho of your benevelous will ſhall redound and propagate to late poſterity.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>Imprimis my true Divinity Bookes (of which I have but very few) I bequeath to the Univerſitie Library that it may for ever flouriſh in the proſperous palme of Religion, and may never be more polluted with the con<g ref="char:EOLhyphen"/>tagious infection of Popery, as in my dayes it hath been now too much, God now avert it.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>This benignitie God will recompenſe for your good will and affection bent to the famous Univerſitie.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>Item, my Maſſe, Popish, and Romiſh bookes, of which I have many Volumes, I bequeath partly to the poore, that they may warme their fingers this following Winter by them on the Market hill, partly to Tobacco<g ref="char:EOLhyphen"/>niſts and Grocers, with the like of that profeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>I likewiſe comend thy charitable deeds to the poor.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>Item, my pictures and Images I devote freely, and withall I divide, partly to the Apple-mongers, partly to Husbandmen, that they may be hangd up to ſcare Crows.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Sir, I thinke in my conſcience that you will per<g ref="char:EOLhyphen"/>forme more commendable and laudable deedes at your departure in your will, then ever you did in your life time.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Item, I bequeath my liberty to the Miter, Croſſe<g ref="char:EOLhyphen"/>keyes, and the Popes head in <hi>Cambridge,</hi> for I did ſo often frequent thoſe three places, that no Scholler dare come but he ſhould finde me there, wherefore now I ſet them
+<pb n="6" facs="tcp:105768:4"/>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> liberty in this my Teſtament.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </speaker>
+               <p>For that act you ſhall incur the prayers of many.</p>
+            </sp>
+            <sp>
+               <speaker>Couſ.</speaker>
+               <p>Item, I bequeath my honeſty to all the women in <hi>Cambridge,</hi> for their children are ſo ingenious, that their Husbands are perſwaded that they are not their owne.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>Oh what bleſſings will the good men accumulate upon you for that benefit in giving chaſtity to their wives, for I have oftentimes heard that Schollers would ſometimes diſpute with them in Folio.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Item, I devove underſtanding to the Maior, for he imployes himſelfe ſo earneſtly to the Plough &amp; Cart, that he cannot underſtand the height of his office.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>'Tis the beſt gem that thou couldſt have adorned him with; for riches or Authority without underſtanding is like a precious Jewell in a ſwines ſnowt.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Item, my Bible in Folio, with a Comment, I be<g ref="char:EOLhyphen"/>queath to the Doctors, deſiring them from my heart, that they would make truer uſe of it then ever I did.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>That likewiſe is a meritorious deed.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Item, my Latin tongue I bequeath partly to the Beadles, that they may learne to ſpeak true Latin, partly to <hi>Trinity Hall</hi> to the Lawyers, that they may write true Latin, and not breake <hi>Priſeans</hi> head ſo often as they doe.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>They have both iuſt cauſe to elevate thy iudicious underſtanding above the Poles, for that thou haſt given them the greateſt benefit that could have beene wiſht for, whoſe way have beene too long obrubilated in obſcurity, but thou haſt reduced them from that errour into the bright and irradiating path of wiſdome.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>Laſtly, I have three lives to bequeath, one life I devove to the Doctors and Biſhops, that they may live to ſee the Church in a true Reformation. The ſecond life I bequeath to Clare Hall in <hi>Cambride,</hi> that they may live to
+<pb n="7" facs="tcp:105768:5"/>ſee their Colledge built; the third and laſt life I <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> willingly bequeath to my ſelf, that I might live and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe things performed.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>I never heard a more ingenious VVill compoſed, that thou ſhouldſt leave thy ſelf ſo rare a benefit, but I fea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy laſt wiſh will ſcarce be granted, thou ſhouldſt have foreſeen that before, for now, alas, I fear it will be too late, and thou maiſt well expound the Apologation of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſentence to thy ſelf. <hi>Sero ſapiunt Phryges.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>I leave that to the ambiguous rotation of doubt<g ref="char:EOLhyphen"/>full Fortune, whoſe certainty is never more ſound then in her own uncertainty: But for thy part labour with ſe<g ref="char:EOLhyphen"/>dulous diligence, and diligent ſedulitie, to avoid thoſe pernicious enormities, which I have falne into.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <p>By Gods divine providence and omnipotent aſ<g ref="char:EOLhyphen"/>ſiſtance I will alwayes extirpate evill ſeeds out of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Cou.</speaker>
+               <p>VVell, I will now contract my ſelf in brief: I be<g ref="char:EOLhyphen"/>ſeech thee ſee my VVill performed in diligent execution, and remember me in my laſt breath to the whole Vniver<g ref="char:EOLhyphen"/>ſitie, deſiring their pardon, and to the Colledge, deſiring them at their pleaſure to elect a new Maſter, for I reſigne my title therein.</p>
+            </sp>
+            <sp>
+               <speaker>Fel.</speaker>
+               <lg>
+                  <l>Let God Almightie with his heav'nly power,</l>
+                  <l>Thus all th'Enemies of the Church devoure.</l>
+                  <l>And let him Pontificians all defame,</l>
+                  <l>To propagate the Goſpel of his name,</l>
+                  <l>And we of thee a Maſter as we crave,</l>
+                  <l>So a religious Doctor let us have:</l>
+                  <l>VVho will confirm the truth, and firmly ſtand</l>
+                  <l>From all falſe doctrine that infects this land.</l>
+                  <l>A Reformation let us now poſſeſſe,</l>
+                  <l>And true Religion let us all profeſſe.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105768:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
